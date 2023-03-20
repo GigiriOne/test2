@@ -9,7 +9,8 @@ function App() {
       <AaaComponents />
       <MyComponent />
       <AaaComponents />
-      <MyComponent />
+      <MyComponent />     
+       <MyComponent />
     </div>
   );
 }
