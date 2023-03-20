@@ -10,7 +10,6 @@ function App() {
       <MyComponent />
       <AaaComponents />
       <MyComponent />     
-       <MyComponent />
     </div>
   );
 }
